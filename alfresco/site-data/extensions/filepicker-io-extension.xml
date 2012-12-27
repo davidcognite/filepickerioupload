@@ -1,0 +1,14 @@
+<extension>
+   <modules>
+      <module>
+         <id>DocLib Extension for filepicker.io</id>
+         <description>DocLib Extension for filepicker.io</description>
+         <customizations>
+            <customization>
+               <targetPackageRoot>org.alfresco.components.upload</targetPackageRoot>
+               <sourcePackageRoot>extension.components.upload</sourcePackageRoot>
+            </customization>
+         </customizations>
+      </module>
+   </modules>
+</extension>
